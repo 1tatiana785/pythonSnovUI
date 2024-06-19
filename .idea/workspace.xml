@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3cd469b-3bd5-4bc8-8456-26ecfcb13ce0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignor" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonSnovioUI.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,26 +30,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for .executor": "Run",
-    "Python tests.Python tests for test_bev.TestBEV.executor": "Run",
-    "Python tests.Python tests for test_bev.TestBEV.test_upload_error_file.executor": "Run",
-    "Python tests.Python tests for test_bev.py.executor": "Run",
-    "Python tests.Python tests for test_login.TestLogin.test_login.executor": "Run",
-    "Python tests.Python tests in test_bev.py.executor": "Run",
-    "Python tests.Python tests in test_login.py.executor": "Run",
-    "Python tests.Python tests.executor": "Run",
-    "Python tests.test_bev.executor": "Run",
-    "Python tests.test_bev.py.executor": "Run",
-    "Python tests.tests.executor": "Run",
-    "Python.base_test.executor": "Run",
-    "Python.conftest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/tanita/PycharmProjects/pythonSnovioUI"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for .executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bev.TestBEV.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bev.TestBEV.test_upload_error_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bev.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login.TestLogin.test_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_bev.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_login.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.test_bev.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.test_bev.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.base_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tanita/PycharmProjects/pythonSnovioUI&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.tests">
     <configuration name="base_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonSnovioUI" />
@@ -140,8 +132,8 @@
     <list>
       <item itemvalue="Python.base_test" />
       <item itemvalue="Python.conftest" />
-      <item itemvalue="Python tests.tests" />
       <item itemvalue="Python tests.test_bev.py" />
+      <item itemvalue="Python tests.tests" />
     </list>
     <recent_temporary>
       <list>

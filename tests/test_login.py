@@ -20,7 +20,6 @@ class TestLogin(BaseTest):
 
     @allure.title("Check balance")
     @allure.severity("Critical")
-    @pytest.mark.skip
     def test_check_balance(self):
         self.login_page.login(Links.BEV_PAGE, Data.LOGIN, Data.PASSWORD)
         self.login_page.check_balance()
