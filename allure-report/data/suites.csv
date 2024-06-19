@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 19 19:17:05 EDT 2024","Wed Jun 19 19:17:19 EDT 2024","14154","tests","test_bev","TestBEV","","","Add to list",""
+"passed","Wed Jun 19 19:16:53 EDT 2024","Wed Jun 19 19:16:59 EDT 2024","6887","tests","test_bev","TestBEV","","","Load more",""
+"passed","Wed Jun 19 19:17:00 EDT 2024","Wed Jun 19 19:17:05 EDT 2024","4346","tests","test_bev","TestBEV","","","Load more",""
+"passed","Wed Jun 19 19:17:37 EDT 2024","Wed Jun 19 19:17:41 EDT 2024","4178","tests","test_login","TestLogin","","","Check balance",""
+"passed","Wed Jun 19 19:17:20 EDT 2024","Wed Jun 19 19:17:36 EDT 2024","16202","tests","test_bev","TestBEV","","","Download",""
+"passed","Wed Jun 19 19:16:44 EDT 2024","Wed Jun 19 19:16:52 EDT 2024","7740","tests","test_bev","TestBEV","","","Load more",""
+"skipped","Wed Jun 19 19:17:36 EDT 2024","Wed Jun 19 19:17:36 EDT 2024","0","tests","test_login","TestLogin","","","Login",""
